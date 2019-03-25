@@ -28,6 +28,9 @@ void miolo(vector<int> v){
     }
   }
 }
+void palindromo(int n){
+
+}
 int main() {
 
   int n;
@@ -44,3 +47,12 @@ int main() {
   miolo(v);
   return 0;
 }
+/*
+int *it;
+it = new int;
+
+it[0] = 1;
+it[1] = 2;
+
+cout <<*it<<*it+1<< '\n';
+*/
